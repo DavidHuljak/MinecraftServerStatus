@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MinecraftServerStatus</string>
+    <string name="show_info_btn">Show status</string>
+    <string name="server_ip">Server IP Address</string>
+</resources>
